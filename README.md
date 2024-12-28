@@ -1,2 +1,3 @@
 AJMO RIDMIIIII
-ad
+a
+konflikt
